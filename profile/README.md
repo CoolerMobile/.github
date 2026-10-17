@@ -13,13 +13,13 @@
 
   <p>
     <a href="https://getcooler.app"><img src="https://img.shields.io/badge/Explore_Cooler-48c7e8?style=for-the-badge&labelColor=0b1220" alt="Explore Cooler" /></a>
-    <a href="https://github.com/CoolerMobile/Cooler/releases/latest"><img src="https://img.shields.io/badge/Get_Android-f7f4ed?style=for-the-badge&logo=android&logoColor=0b1220&labelColor=f7f4ed" alt="Download Cooler for Android" /></a>
+    <a href="https://github.com/CoolerMobile/Cooler/releases/latest"><img src="https://img.shields.io/badge/Get_App-f7f4ed?style=for-the-badge&labelColor=f7f4ed" alt="Download Cooler" /></a>
   </p>
 
   <p>
     <a href="https://github.com/CoolerMobile/Cooler/releases"><img src="https://img.shields.io/github/v/release/CoolerMobile/Cooler?style=flat-square&label=release&color=48c7e8&labelColor=0b1220" alt="Latest release" /></a>
-    <a href="https://github.com/CoolerMobile/Cooler/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/CoolerMobile/Cooler?style=flat-square&color=48c7e8&labelColor=0b1220" alt="AGPL-3.0 license" /></a>
-    <img src="https://img.shields.io/badge/iOS-coming_soon-48c7e8?style=flat-square&labelColor=0b1220" alt="iOS coming soon" />
+    <a href="https://github.com/CoolerMobile/Cooler/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/CoolerMobile/Cooler?style=flat-square&color=48c7e8&label=license&labelColor=0b1220" alt="AGPL-3.0 license" /></a>
+    <a href="https://testflight.apple.com/join/4EJabhcM"><img src="https://img.shields.io/badge/iOS-TestFlight-48c7e8?style=flat-square&labelColor=0b1220" alt="iOS TestFlight" /></a>
   </p>
 </div>
 
